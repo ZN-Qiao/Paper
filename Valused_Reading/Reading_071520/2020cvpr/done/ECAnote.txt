@@ -1,0 +1,3 @@
+By visualizing channel features y, we find that they usually exhibit a certain local periodicity.
+
+1D conv

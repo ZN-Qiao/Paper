@@ -1,0 +1,7 @@
+Feature Pyramid Networks for Object Detection: FPN, multi-resolution, prediction from every stage. 2017CVPR
+
+Pyramid Scene Parsing Network: multi-scale concatenation. 2017 CVPR
+
+Pyramid Attention Network for Semantic Segmentation: Use different sizes of kernels to mimic multi-scale(multiply), use global information as reference(plus). BMVC 2018
+
+Scale-Aware Trident Networks for Object Detection: parallel braches; shared weight; different dilation to perform multi-scale.CVPR2019

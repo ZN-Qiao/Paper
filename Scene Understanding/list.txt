@@ -1,0 +1,13 @@
+Z. Zhao and M. Larson, “From volcano to toyshop: Adaptive discriminative region discovery for scene recognition,” in Proceedings of the 26th ACM International Conference on Multimedia (ACM MM), 2018, pp. 1760–1768
+
+X. Song, S. Jiang, and L. Herranz, “Multi-scale multi-feature context modeling for scene recognition in the semantic manifold,” IEEE Transactions on Image Processing, vol. 26, no. 6, pp. 2721–2735, 2017.
+
+R. Wu, B. Wang, W. Wang, and Y. Yu, “Harvesting discriminative meta objects with deep cnn features for scene classification,” in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2015, pp. 1287–1295.
+
+J. Shi, H. Zhu, S. Yu, W. Wu, and H. Shi, “Scene categorization model using deep visually sensitive features,” IEEE Access, 2019.
+
+M. Pandey and S. Lazebnik, “Scene recognition and weakly supervised object localization with deformable part-based models,” in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2011.
+
+S. N. Parizi, J. G. Oberlin, and P. F. Felzenszwalb, “Reconfigurable models for scene recognition,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012, pp. 2775–2782.
+
+X. Sun, L. Zhang, Z. Wang, J. Chang, Y. Yao, P. Li, and R. Zimmermann, “Scene categorization using deeply learned gaze shifting kernel,” IEEE Transactions on Cybernetics, 2019.

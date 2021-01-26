@@ -1,0 +1,1 @@
+Likely it is a combination of SPP and CBAM, i.e., produce spatial and channel attention for every scale.

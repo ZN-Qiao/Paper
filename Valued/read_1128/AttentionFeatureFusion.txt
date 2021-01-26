@@ -1,0 +1,4 @@
+change both residual and identiy
+use pointwise conv to get global and local map
+
+redidual * wei + indentity * (1-wei)

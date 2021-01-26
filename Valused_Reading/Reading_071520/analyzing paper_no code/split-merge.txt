@@ -1,0 +1,5 @@
+segmentation
+
+split input and restore
+
+usefull for large images
